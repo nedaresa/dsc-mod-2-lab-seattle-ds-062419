@@ -7,9 +7,13 @@ Date: 07/25/2019
 Explore Soccer Team Summary statistics: 
 
 The name of the team
+
 The total number of goals scored by the team during the 2011 season
+
 A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly)
+
 The total number of wins the team earned during the 2011 season
+
 The team's win percentage on days where it was raining during games in the 2011 season.
 
 
